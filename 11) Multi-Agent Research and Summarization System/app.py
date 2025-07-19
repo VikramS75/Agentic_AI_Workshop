@@ -116,7 +116,7 @@ with st.sidebar:
     
     <hr style='border:1px solid #eee'>
     
-    - [GitHub](https://github.com/)
+    - [GitHub](https://github.com/VikramS75/Agentic_AI_Workshop/tree/main/11%29%20Multi-Agent%20Research%20and%20Summarization%20System)
     - [LangGraph Docs](https://langchain-ai.github.io/langgraph/)
     
     <hr style='border:1px solid #eee'>
